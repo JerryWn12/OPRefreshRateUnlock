@@ -1,0 +1,1 @@
+settings put global oneplus_screen_refresh_rate 0
